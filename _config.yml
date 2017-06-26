@@ -9,7 +9,7 @@
 title: Willie Louth
 email: willielouth@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is my first < href="wildlouth.github.io/first_webpage" website> using Github. 
+  This is my first <a href="wildlouth.github.io/first_webpage"> website</a> using Github. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://willielouth.com" # the base hostname & protocol for your site
 twitter_username: wildlouth93
