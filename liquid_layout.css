@@ -14,7 +14,8 @@ li {
   padding: 0.5em;}
 #nav, #footer {
   background-color: #efefef; 
-  padding: 0.5em 0;}
+  padding: 0.5em 0;
+  text-align: center; }
 #feature, .article {
   height: 10em; 
   margin-bottom: 1em; 
