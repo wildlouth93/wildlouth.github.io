@@ -1,7 +1,8 @@
 body {
   width: 90%; 
   margin: 0 auto;
-  text-align: center;}
+  text-align: center;
+  background-color: navy blue; }
 #content {overflow: auto;}
 #nav, #feature, #footer {
   margin: 1%;}
