@@ -2,7 +2,8 @@ body {
   width: 90%; 
   margin: 0 auto;
   text-align: center;
-  border-radius: 15px; 
+  border-radius: 15px;
+  overflow: hidden; 
   perspective: 1px; 
 }
 #content {overflow: auto;}
