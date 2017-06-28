@@ -1,6 +1,7 @@
 body {
   width: 90%; 
-  margin: 0 auto;}
+  margin: 0 auto;
+  text-align: center;}
 #content {overflow: auto;}
 #nav, #feature, #footer {
   margin: 1%;}
@@ -14,8 +15,7 @@ li {
   padding: 0.5em;}
 #nav, #footer {
   background-color: #efefef; 
-  padding: 0.5em 0;
-  text-align: center; }
+  padding: 0.5em 0;}
 #feature, .article {
   height: 10em; 
   margin-bottom: 1em; 
