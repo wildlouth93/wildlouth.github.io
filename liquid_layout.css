@@ -2,8 +2,9 @@ body {
   width: 90%; 
   margin: 0 auto;
   text-align: center;
-  background-color: #ffffff; }
-#content {overflow: auto;}
+  background-color: #4d4e4f; }
+#content {overflow: auto;
+  border-radius: 5px;}
 #nav, #feature, #footer {
   margin: 1%;}
 .column1, .column2, .column3 {
