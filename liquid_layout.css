@@ -3,6 +3,7 @@ body {
   margin: 0 auto;
   text-align: center;
   border-radius: 5px; 
+  perspective: 1px; 
 }
 #content {overflow: auto;}
 #nav, #feature, #footer {
