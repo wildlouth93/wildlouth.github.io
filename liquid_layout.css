@@ -2,7 +2,7 @@ body {
   width: 90%; 
   margin: 0 auto;
   text-align: center;
-  background-color: blue; }
+  background-color: #ffffff; }
 #content {overflow: auto;}
 #nav, #feature, #footer {
   margin: 1%;}
