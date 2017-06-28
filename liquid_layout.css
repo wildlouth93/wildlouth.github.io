@@ -3,12 +3,8 @@ body {
   margin: 0 auto;
   text-align: center;
 }
-#content {
-  -webkit-border-radius: 10px; 
-  -moz-border-radius: 10px; 
-  border-radius: 10px; 
-  overflow: hidden;
-  perspective: 1px;}
+#content { 
+  overflow: auto;}
 #nav, #feature, #footer {
   margin: 1%;}
 .column1, .column2, .column3 {
