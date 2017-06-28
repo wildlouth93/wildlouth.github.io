@@ -16,7 +16,7 @@ li {
 #nav, #footer {
   background-color: #efefef; 
   padding: 0.5em 0;}
-#feature, .column1, .column2, .column3 {
+#feature, .article {
   height: 10em; 
   margin-bottom: 1em; 
-  background_color: #efefef;}
+  background-color: #efefef;}
